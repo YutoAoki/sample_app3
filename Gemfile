@@ -10,7 +10,9 @@ end
 gem 'rails', '~> 5.1.6'
 gem 'bootstrap-sass', '3.3.7'
 gem 'bcrypt', '3.1.11'
-
+gem 'faker', '1.7.3'
+gem 'will_paginate', '3.1.6'
+gem 'bootstrap-will_paginate', '1.0.0'
 
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
